@@ -1,7 +1,8 @@
 <div>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=50&section=header&fontSize=7&fontColor=FFFFFF&fontAlign=50&fontAlignY=5&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=gradient" style="width:100%;" />
 </div>
-# Hi 👋, I'm hamsa
+# Hi 👋, I'm Hamsa
+
 ### Exploring how ideas turn into systems and systems shape people
 
 - 🔭 I'm currently working on **Building small systems with big intent—AI tools, embedded ideas, and experimental tech.**
