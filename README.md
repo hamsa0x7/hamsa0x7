@@ -1,28 +1,51 @@
-# Hi 👋, I'm Hamsa
+# Hamsa
 
-### Exploring how ideas turn into systems and systems shape people.
+I build tools when existing ones get in the way.
 
----
+This profile contains workflow automation, system-level experiments, architecture prototypes, and AI-assisted development infrastructure.
 
-### 🔭 Current Focus
-Building **[MCP Hive](https://github.com/hamsa0x7/mcp-hive)** — The Swarm Orchestration Layer for Complex Agentic Work. Breaking the single-threaded bottleneck for the next generation of agents.
-
-### 🛠️ Core Interests
-- **AI Governance & Swarm Intelligence**
-- **System Design & OS Customization**
-- **Experimental Tech & Product Engineering**
+Most projects are problem-driven, not portfolio-driven.  
+If something exists here, it solved a real constraint.
 
 ---
 
-### 🔗 Connect
-- 🌐 [hamsa.dev](https://hamsa.dev)
-- 📝 [Notes & Articles](https://notes.hamsa.dev)
-- 📫 [paramahamsa94@gmail.com](mailto:paramahamsa94@gmail.com)
+I build and modify software systems.
+
+Most of my work involves understanding how tools actually function underneath their interfaces, then reshaping them to fit my needs.
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamsa0x7/hamsa0x7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamsa0x7/hamsa0x7/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hamsa0x7/hamsa0x7/output/pacman-contribution-graph.svg">
-</picture>
+## What you'll find here
+
+- Internal tools and automation
+- Experiments with AI-assisted development
+- OS-level and workflow modifications
+- Small utilities that remove friction from repetitive tasks
+- Architecture prototypes
+
+---
+
+## How I work
+
+I prefer:
+
+- Direct control over abstractions
+- Reading source before reading documentation
+- Modifying existing systems instead of adding layers on top
+- Building tools for myself first
+
+---
+
+## Current direction
+
+- Improving AI development workflows
+- Designing reusable system backbones
+- Reducing operational overhead through tooling
+
+---
+
+## Notes
+
+Most repositories here exist because I needed something and built it.
+
+Some are rough. That's intentional.
