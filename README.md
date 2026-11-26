@@ -1,51 +1,5 @@
-# Hamsa
+<p align="center"><img src="./assets/svg/horizon-dark.svg#gh-dark-mode-only" width="100%" alt="Tidal Monolith" /><img src="./assets/svg/horizon-light.svg#gh-light-mode-only" width="100%" alt="Tidal Monolith" /><a href="https://github.com/hamsa0x7/hamsa0x7/blob/main/views/sanctum.md"><img src="./assets/3d/main-calm-dark.webp#gh-dark-mode-only" width="100%" alt="Surreal Desert Water Shrine" /><img src="./assets/3d/main-calm-light.webp#gh-light-mode-only" width="100%" alt="Surreal Desert Water Shrine" /></a></p>
 
-I build tools when existing ones get in the way.
+<p align="center"><a href="https://github.com/hamsa0x7/hamsa0x7/blob/main/views/sanctum.md"><img src="./assets/svg/tile-sanctum-dark.svg#gh-dark-mode-only" width="33.33%" alt="Enter Oculus" /><img src="./assets/svg/tile-sanctum-light.svg#gh-light-mode-only" width="33.33%" alt="Enter Oculus" /></a><a href="https://github.com/hamsa0x7/hamsa0x7/blob/main/views/submerged.md"><img src="./assets/svg/tile-submerged-dark.svg#gh-dark-mode-only" width="33.33%" alt="Beneath Basin" /><img src="./assets/svg/tile-submerged-light.svg#gh-light-mode-only" width="33.33%" alt="Beneath Basin" /></a><a href="https://github.com/hamsa0x7/hamsa0x7/blob/main/views/relic.md"><img src="./assets/svg/tile-relic-dark.svg#gh-dark-mode-only" width="33.33%" alt="Core Relic" /><img src="./assets/svg/tile-relic-light.svg#gh-light-mode-only" width="33.33%" alt="Core Relic" /></a></p>
 
-This profile contains workflow automation, system-level experiments, architecture prototypes, and AI-assisted development infrastructure.
-
-Most projects are problem-driven, not portfolio-driven.  
-If something exists here, it solved a real constraint.
-
----
-
-I build and modify software systems.
-
-Most of my work involves understanding how tools actually function underneath their interfaces, then reshaping them to fit my needs.
-
----
-
-## What you'll find here
-
-- Internal tools and automation
-- Experiments with AI-assisted development
-- OS-level and workflow modifications
-- Small utilities that remove friction from repetitive tasks
-- Architecture prototypes
-
----
-
-## How I work
-
-I prefer:
-
-- Direct control over abstractions
-- Reading source before reading documentation
-- Modifying existing systems instead of adding layers on top
-- Building tools for myself first
-
----
-
-## Current direction
-
-- Improving AI development workflows
-- Designing reusable system backbones
-- Reducing operational overhead through tooling
-
----
-
-## Notes
-
-Most repositories here exist because I needed something and built it.
-
-Some are rough. That's intentional.
+<p align="center"><a href="https://github.com/hamsa0x7/hamsa0x7/issues/new?title=shrine:calm&body=Return+the+basin+to+stillness."><img src="./assets/svg/tile-state-calm-dark.svg#gh-dark-mode-only" width="33.33%" alt="State: Calm" /><img src="./assets/svg/tile-state-calm-light.svg#gh-light-mode-only" width="33.33%" alt="State: Calm" /></a><a href="https://github.com/hamsa0x7/hamsa0x7/issues/new?title=shrine:surge&body=Raise+the+tidal+resonance."><img src="./assets/svg/tile-state-surge-dark.svg#gh-dark-mode-only" width="33.33%" alt="State: Surge" /><img src="./assets/svg/tile-state-surge-light.svg#gh-light-mode-only" width="33.33%" alt="State: Surge" /></a><a href="https://github.com/hamsa0x7/hamsa0x7/issues/new?title=shrine:eclipse&body=Align+the+celestial+eclipse."><img src="./assets/svg/tile-state-eclipse-dark.svg#gh-dark-mode-only" width="33.33%" alt="State: Eclipse" /><img src="./assets/svg/tile-state-eclipse-light.svg#gh-light-mode-only" width="33.33%" alt="State: Eclipse" /></a></p>
