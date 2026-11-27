@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 56" width="300" height="56">
-  <rect x="0.5" y="0.5" width="299" height="55" fill="#080e17" stroke="#1c2d42" stroke-width="1"/>
-  <polygon points="26,18 35,28 26,38 17,28" fill="none" stroke="#4deeea" stroke-width="1.2"/>
-            <line x1="17" y1="28" x2="35" y2="28" stroke="#4deeea" stroke-width="0.9" opacity="0.6"/>
-  <text x="48" y="25" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="600" letter-spacing="1.8" fill="#d9ecff">03  CORE RELIC</text>
-  <text x="48" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" letter-spacing="1.2" fill="#5e7a99">VIEW // MACRO</text>
-</svg>
