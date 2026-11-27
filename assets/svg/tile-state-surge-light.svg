@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 56" width="300" height="56">
-  <rect x="0.5" y="0.5" width="299" height="55" fill="#ede2ce" stroke="#b87624" stroke-width="1"/>
-  <rect x="20" y="22" width="12" height="12" transform="rotate(45 26 28)" fill="#b87624" stroke="#b87624" stroke-width="1.2"/>
+  <rect x="0.5" y="0.5" width="299" height="55" fill="#f6efe2" stroke="#cbb899" stroke-width="1"/>
+  <rect x="20" y="22" width="12" height="12" transform="rotate(45 26 28)" fill="none" stroke="#b87624" stroke-width="1.2"/>
   <text x="48" y="25" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="600" letter-spacing="1.8" fill="#2d2419">B  TIDAL SURGE</text>
-  <text x="48" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" letter-spacing="1.2" fill="#b87624">ACTIVE // RESONANCE</text>
+  <text x="48" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" letter-spacing="1.2" fill="#7d6b52">MUTATE // WAVE</text>
 </svg>

@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 72" width="900" height="72">
   <rect width="900" height="72" fill="#080e17"/>
   <line x1="0" y1="71.5" x2="900" y2="71.5" stroke="#1c2d42" stroke-width="1"/>
-  <path d="M 0 56 L 0 56.0 L 12 60.6 L 24 63.9 L 36 65.0 L 48 63.5 L 60 59.8 L 72 55.1 L 84 50.6 L 96 47.7 L 108 47.1 L 120 49.0 L 132 53.0 L 144 57.8 L 156 62.0 L 168 64.6 L 180 64.7 L 192 62.4 L 204 58.2 L 216 53.4 L 228 49.3 L 240 47.2 L 252 47.5 L 264 50.3 L 276 54.7 L 288 59.5 L 300 63.2 L 312 65.0 L 324 64.1 L 336 61.0 L 348 56.4 L 360 51.7 L 372 48.3 L 384 47.0 L 396 48.3 L 408 51.8 L 420 56.5 L 432 61.0 L 444 64.1 L 456 65.0 L 468 63.2 L 480 59.4 L 492 54.7 L 504 50.3 L 516 47.5 L 528 47.2 L 540 49.3 L 552 53.4 L 564 58.2 L 576 62.4 L 588 64.7 L 600 64.6 L 612 62.0 L 624 57.7 L 636 53.0 L 648 49.0 L 660 47.1 L 672 47.7 L 684 50.7 L 696 55.1 L 708 59.9 L 720 63.5 L 732 65.0 L 744 63.9 L 756 60.6 L 768 56.0 L 780 51.4 L 792 48.1 L 804 47.0 L 816 48.5 L 828 52.2 L 840 56.9 L 852 61.4 L 864 64.3 L 876 64.9 L 888 62.9 L 900 59.0" fill="none" stroke="#4deeea" stroke-width="1.2" opacity="0.45"/>
+  <path d="M 0 56 L 0 56.0 L 12 57.8 L 24 59.4 L 36 60.7 L 48 61.6 L 60 62.0 L 72 61.8 L 84 61.2 L 96 60.1 L 108 58.6 L 120 56.8 L 132 55.1 L 144 53.3 L 156 51.9 L 168 50.8 L 180 50.1 L 192 50.0 L 204 50.4 L 216 51.4 L 228 52.7 L 240 54.3 L 252 56.1 L 264 57.9 L 276 59.5 L 288 60.8 L 300 61.6 L 312 62.0 L 324 61.8 L 336 61.1 L 348 60.0 L 360 58.5 L 372 56.7 L 384 55.0 L 396 53.3 L 408 51.8 L 420 50.7 L 432 50.1 L 444 50.0 L 456 50.5 L 468 51.4 L 480 52.8 L 492 54.4 L 504 56.2 L 516 58.0 L 528 59.6 L 540 60.8 L 552 61.7 L 564 62.0 L 576 61.8 L 588 61.1 L 600 59.9 L 612 58.4 L 624 56.6 L 636 54.9 L 648 53.2 L 660 51.7 L 672 50.7 L 684 50.1 L 696 50.0 L 708 50.5 L 720 51.5 L 732 52.9 L 744 54.5 L 756 56.3 L 768 58.1 L 780 59.6 L 792 60.9 L 804 61.7 L 816 62.0 L 828 61.8 L 840 61.0 L 852 59.8 L 864 58.3 L 876 56.5 L 888 54.8 L 900 53.1" fill="none" stroke="#4deeea" stroke-width="1.2" opacity="0.45"/>
 
   <!-- Left: Coordinate & State -->
   <circle cx="24" cy="28" r="3.5" fill="#4deeea">
     <animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/>
   </circle>
-  <text x="38" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="2.2" fill="#d9ecff">TIDAL MONOLITH // SURGE</text>
+  <text x="38" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="2.2" fill="#d9ecff">TIDAL MONOLITH // ECLIPSE</text>
 
   <!-- Center geometric glyph -->
   <g transform="translate(450, 28)">
     <polygon points="0,-11 11,0 0,11 -11,0" fill="none" stroke="#4deeea" stroke-width="1.2"/>
-    <circle cx="0" cy="0" r="2.5" fill="#4deeea"/>
+    <circle cx="0" cy="0" r="4.5" fill="#4deeea"/>
   </g>
 
   <!-- Right: Ritual counter & handle -->
